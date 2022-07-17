@@ -2,7 +2,6 @@ import { Component } from 'react';
 import { nanoid } from 'nanoid';
 import { ContactsReviewForm } from './form/Form';
 import ContactsList from './list/ContactsList';
-import {ContactsListItem} from './list/ContactsItem';
 import { Filter } from './filter/Filter';
 import { Container, Title } from './AppStyled';
 
